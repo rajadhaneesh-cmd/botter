@@ -1,0 +1,9 @@
+pyTelegramBotAPI
+pyautogui
+wakeonlan
+opencv-python
+numpy
+psutil
+pyperclip
+pywin32
+Pillow
